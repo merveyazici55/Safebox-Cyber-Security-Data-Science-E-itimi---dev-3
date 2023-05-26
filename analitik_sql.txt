@@ -1,0 +1,13 @@
+Analitik SQL'in temel amacı, veritabanındaki büyük veri kümeleri üzerinde derinlemesine analizler yapmak, segmentlere ayırmak, desenleri belirlemek ve özetleyici sonuçlar üretmektir. Analitik SQL, iş zekası (business intelligence), veri analitiği ve büyük veri projeleri gibi alanlarda yaygın olarak kullanılır.
+
+Analitik SQL'in bazı temel özellikleri şunlardır:
+
+Pencere Fonksiyonları: Pencere fonksiyonları, analitik sorgular için oldukça önemlidir. Bu fonksiyonlar, bir sonuç kümesi üzerinde hareketli bir pencere (window) oluşturarak hesaplamalar yapmanızı sağlar. Örneğin, bir zaman serisi üzerinde hareketli ortalama hesaplaması yapabilirsiniz.
+
+Gruplama ve Sıralama: Analitik SQL, verileri belirli kriterlere göre gruplama ve sıralama yetenekleri sunar. Bu sayede verileri segmentlere ayırabilir, grup bazında analizler yapabilir veya sıralama ile en yüksek/en düşük değerlere erişebilirsiniz.
+
+Toplama ve Özetlemeler: Analitik SQL, toplam, ortalama, minimum, maksimum gibi özetleme fonksiyonlarına sahiptir. Bu fonksiyonlarla verilerinizi özetleyebilir ve istatistiksel bilgiler elde edebilirsiniz.
+
+Veri Dönüşümleri: Analitik SQL, verileri dönüştürmek için çeşitli fonksiyonlara sahiptir. Örneğin, metinleri büyük harfe dönüştürebilir, tarihleri farklı formatlara çevirebilir veya sayıları yuvarlayabilirsiniz.
+
+Alt Sorgular: Analitik SQL, alt sorguları destekler. Bu sayede birden fazla sorguyu birleştirebilir, veri kümesini daraltabilir ve daha karmaşık analizler yapabilirsiniz.

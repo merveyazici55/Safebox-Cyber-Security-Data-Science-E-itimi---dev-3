@@ -1,0 +1,11 @@
+Code Red, 2001 yılında keşfedilen bir bilgisayar solucanıdır. Bu solucan, Microsoft IIS (Internet Information Services) web sunucusunda bulunan güvenlik açıklarını hedef almaktadır. Code Red, sunucularda çalışan Windows NT ve Windows 2000 işletim sistemlerini etkilemektedir.
+
+Code Red solucanı, bir sunucuya erişmek için belirli bir IP adresi listesini tarar ve güvenlik açığını sömürmek için özel bir HTTP isteği gönderir. Bu güvenlik açığı, IIS sunucusunda "Internet Data Services (IDA)" bileşeni tarafından işlenen bir hataya dayanmaktadır. Solucan, bu hatayı kullanarak sunucuya yetkisiz erişim sağlamakta ve ardından sunucuda kötü amaçlı bir kod yükleyerek sunucuyu etkisiz hale getirmektedir.
+
+Code Red solucanının bir özelliği, hızla yayılabilmesidir. Solucan, etkili olduğu bir sunucuda kendi kopyasını oluşturur ve ardından tarayıcı modu kullanarak diğer sunucuları tarar ve enfekte etmeye çalışır. Bunu yaparken, taranan IP adresleri üzerindeki güvenlik açığını sömürür ve aynı saldırıyı gerçekleştirir.
+
+Code Red solucanı, etkilenen sunucuları etkisiz hale getirecek şekilde tasarlanmıştır. Solucan, sunucunun kaynaklarını tüketerek performansını düşürebilir ve hatta sunucunun çökmesine neden olabilir. Ayrıca, solucan, saldırganlara sunucuya izinsiz erişim sağlama imkanı veren bir arka kapı da açabilir.
+
+Code Red solucanı, 2001 yılında büyük bir etki yaratmış ve birçok bilgisayarı etkilemiştir. Bu saldırı, internet güvenliği konusunda farkındalığı artırmak için bir dönüm noktası olmuştur ve birçok kuruluş güvenlik önlemlerini artırmıştır.
+
+Sonuç olarak, Code Red solucanı, Microsoft IIS sunucusundaki güvenlik açıklarını hedefleyen ve sunucuları etkisiz hale getirmek için tasarlanmış bir solucandır. Bu saldırı, bilgisayar güvenliği konusunda ciddi tehditlerden birini temsil etmiştir.
